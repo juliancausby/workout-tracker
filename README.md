@@ -74,6 +74,7 @@ http://localhost:3000 or whatever localhost react shows in the terminal
 ## Future Improvements
 
 - Multi-user authentication
+- Data Visualization for fitness
 - Workout templates for faster logging
 - Improved styling and responsive design
 - Edit / delete workouts from history
