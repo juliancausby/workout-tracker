@@ -69,3 +69,18 @@ http://localhost:3000 or whatever localhost react shows in the terminal
 
 <img width="1512" height="839" alt="Screenshot 2025-09-13 at 21 35 09" src="https://github.com/user-attachments/assets/d3613b2a-bda0-4887-b73c-472fde23effd" />
 
+<img width="3024" height="1690" alt="image" src="https://github.com/user-attachments/assets/46552cb2-36b0-45ad-ae3b-94acbb7983de" />
+
+## Future Improvements
+
+- Multi-user authentication
+- Workout templates for faster logging
+- Improved styling and responsive design
+- Edit / delete workouts from history
+- Deployed live demo
+
+## What I learnt
+
+- Building reusable React components
+- Building a backend with javascript
+- Fetching and posting data using Axios
